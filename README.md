@@ -39,8 +39,8 @@ Evo 2 is based on [StripedHyena 2](https://github.com/Zymrael/vortex) which requ
 To install Evo 2 for inference or generation, please clone and install from GitHub. We recommend using a new conda environment with python>=3.11.
 
 ```bash
-git clone --recurse-submodules git@github.com:ArcInstitute/evo2.git
-cd evo2
+git clone --recurse-submodules git@github.com:J-Ngaiii/evo2-lrc.git
+cd evo2-lrc
 pip install .
 ```
 
